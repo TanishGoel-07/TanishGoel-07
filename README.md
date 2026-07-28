@@ -98,10 +98,6 @@ Personal portfolio built from scratch.
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TanishGoel-07&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanishGoel-07&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</p>
-
 ---
 
 ### 🏅 Achievements & Certifications
