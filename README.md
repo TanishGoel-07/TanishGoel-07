@@ -21,7 +21,7 @@
 - 💡 190+ LeetCode problems solved · National-level hackathon finalist (HacktheHills @ IIT UNA, Hyperspace Innovation @ IPEC)
 - 🏆 Departmental winner — Smart India Hackathon
 - 🌱 Currently deepening skills in **Generative AI & Prompt Engineering**
-- 📫 Reach me at **tanish.2428cse254@kiet.edu**
+- 📫 Reach me at **goeltanish2403@gmail.com**
 
 ---
 
