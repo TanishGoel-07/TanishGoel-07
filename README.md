@@ -90,12 +90,12 @@ Personal portfolio built from scratch.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanishGoel-07&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishGoel-07&layout=compact&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TanishGoel-07&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanishGoel-07&layout=compact&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TanishGoel-07&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TanishGoel-07&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
