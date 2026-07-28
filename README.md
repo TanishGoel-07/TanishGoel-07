@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:tanish.2428cse254@kiet.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tanish-goel-b43a38328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/TANISH_GOEL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/TanishGoel-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -54,7 +54,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[🩺 VitalVerse — AI-Integrated Healthcare Platform](https://github.com/TanishGoel-07)**
+**🩺 VitalVerse — AI-Integrated Healthcare Platform** *(Team project of 4)*
 MERN stack platform with role-based auth & ML inference REST APIs.
 `React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
