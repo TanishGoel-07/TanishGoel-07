@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student • Machine Learning & MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps;Turning+data+into+decisions;190%2B+LeetCode+problems+solved;Open+to+Internships+%26+SDE+Roles&font=Fira%20Code&center=true&width=580&height=45&color=2E86C1&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps;Turning+data+into+decisions;250%2B+LeetCode+problems+solved;Open+to+Internships+%26+SDE+Roles&font=Fira%20Code&center=true&width=580&height=45&color=2E86C1&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
