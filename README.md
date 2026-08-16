@@ -107,7 +107,7 @@ Personal portfolio built from scratch.
 - 📜 Ethical Hacking Certificate (Internshala)
 - 📜 Network Essentials Certificate (Cisco)
 - 📜 Experiential Learning Certificate (NSQF Level 5)
-- 🧩 190+ LeetCode Problems Solved
+- 🧩 300+ LeetCode Problems Solved
 
 ---
 
