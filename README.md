@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in Computer Science Engineering @ **KIET Group of Institutions, Ghaziabad** (CGPA: 8.71/10)
 - 🧠 Building **AI-powered healthcare, analytics, and chatbot systems** with Python, React.js, Streamlit & Scikit-learn
-- 💡 190+ LeetCode problems solved · National-level hackathon finalist (HacktheHills @ IIT UNA, Hyperspace Innovation @ IPEC)
+- 💡 350+ LeetCode problems solved · National-level hackathon finalist (HacktheHills @ IIT UNA, Hyperspace Innovation @ IPEC)
 - 🏆 Departmental winner — Smart India Hackathon
 - 🌱 Currently deepening skills in **Generative AI & Prompt Engineering**
 - 📫 Reach me at **goeltanish2403@gmail.com**
