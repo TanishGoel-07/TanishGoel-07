@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Student • Machine Learning & MERN Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps;Turning+data+into+decisions;300%2B+LeetCode+problems+solved;Open+to+Internships+%26+SDE+Roles&font=Fira%20Code&center=true&width=580&height=45&color=2E86C1&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+apps;Turning+data+into+decisions;400%2B+LeetCode+problems+solved;Open+to+Internships+%26+SDE+Roles&font=Fira%20Code&center=true&width=580&height=45&color=2E86C1&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in Computer Science Engineering @ **KIET Group of Institutions, Ghaziabad** (CGPA: 8.71/10)
 - 🧠 Building **AI-powered healthcare, analytics, and chatbot systems** with Python, React.js, Streamlit & Scikit-learn
-- 💡 350+ LeetCode problems solved · National-level hackathon finalist (HacktheHills @ IIT UNA, Hyperspace Innovation @ IPEC)
+- 💡 400+ LeetCode problems solved · National-level hackathon finalist (HacktheHills @ IIT UNA, Hyperspace Innovation @ IPEC)
 - 🏆 Departmental winner — Smart India Hackathon
 - 🌱 Currently deepening skills in **Generative AI & Prompt Engineering**
 - 📫 Reach me at **goeltanish2403@gmail.com**
